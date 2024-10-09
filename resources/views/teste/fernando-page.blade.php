@@ -13,7 +13,7 @@
      @endforeach
 
     @auth
-    <span>você esta logado!</span>
+    <span>você esta autenticado!</span>
     @endauth
 
 </body>
